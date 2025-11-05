@@ -1,4 +1,4 @@
-# 11-05---
+---
 title: My Solara GIS App
 emoji: 🌍
 colorFrom: blue
