@@ -1,13 +1,18 @@
 ---
-title: My Solara GIS App
-emoji: 🌍
+title: Solara 台北 GIS 儀表板
+emoji: 🗺️
 colorFrom: blue
-colorTo: green
+colorTo: indigo
 sdk: docker
+sdk_version: "1.0"
+app_file: app.py
 pinned: false
-app_port: 7860
 ---
 
-# 以下是您 README 的原有內容，例如：
-# 1105Solara-webmap-app
-從 Code 到 Cloud：用 Solara 與 Hugging Face 打造互動式地圖 Web App  (元件化與ipywidgets 的強大威力)
+# Solara 台北 GIS 儀表板
+使用 Solara + Leafmap 建立 2D/3D 台北地圖，部署於 Hugging Face Spaces。
+
+## 頁面
+- 🏠 首頁
+- 🗺️ 2D 台北捷運圖
+- 🏙️ 3D 台北建築圖
